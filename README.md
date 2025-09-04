@@ -6,7 +6,7 @@ A home automation system that allows users to control home appliances  (like lig
 ### 1. Appliance Control via Bluetooth:
 Hardware: Bluetooth module (HC-05), DC motor, Servo motor, Stepper motor, LEDs, DIP switches.
 
-Control appliances like lights (simulated by LEDs), fan (using a DC motor), door (using a Servo motor), and blinds (using a Stepper motor) through Bluetooth commands from a smartphone app.
+Control appliances like lights (simulated by LEDs), fan (using a DC motor), door (using a Servo motor), and blinds (using a Stepper motor) through Bluetooth commands from a smartphone app created by MIT App Inventor.
 
 
 ### 2. Manual Override:
@@ -29,3 +29,8 @@ confirmation for successful commands.
 
 ## Video
 https://drive.google.com/file/d/106JTL1VFPwDyybsZ57IrlNx8QyNfgsbR/view?usp=drivesdk
+
+
+## Mobile App Interface 
+https://drive.google.com/file/d/1Lfv9ZfPfck4oQ14AdM6YPVGybcTYtm7f/view?usp=drivesdk
+
