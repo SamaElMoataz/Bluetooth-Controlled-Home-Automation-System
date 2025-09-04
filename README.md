@@ -25,3 +25,7 @@ Hardware: External EEPROM. Log data related to system usage (devices states) and
 Hardware: Buzzer (for sound feedback). Notify the user when an action is taken via sound, providing auditory 
 confirmation for successful commands.
 
+
+
+## Video
+https://drive.google.com/file/d/106JTL1VFPwDyybsZ57IrlNx8QyNfgsbR/view?usp=drivesdk
